@@ -8,6 +8,7 @@ Chromebook with Intel Core
 # Installation  
 CTRL + ALT + T   
 shell  
+chmod u+x ~/Downloads/installPlayStore.sh
 sh ~/Downloads/installPlayStore.sh  
  
 Reboot your Chromebook  
