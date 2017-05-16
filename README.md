@@ -9,8 +9,7 @@ Save & Close all currents work.
 # Installation  
 CTRL + ALT + T   
 shell  
-chmod u+x ~/Downloads/installPlayStore.sh
-sudo sh ~/Downloads/installPlayStore.sh  
+chmod u+x ~/Downloads/installPlayStore.sh && sudo sh ~/Downloads/installPlayStore.sh  
  
 Reboot your Chromebook  
 
