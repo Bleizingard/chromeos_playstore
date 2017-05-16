@@ -7,10 +7,12 @@ Chromebook with Intel Core
 
 # Installation  
 CTRL + ALT + T   
+shell  
 sh ~/Download/installPlayStore.sh  
  
 Reboot your Chromebook  
 
 # How to use it 
 CTRL + ALT + T  
+shell  
 sh ~/Download/activePlayStore.sh 
