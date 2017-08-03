@@ -2,7 +2,7 @@
 Allow you to use play store on your Chromebook  
 
 # Prerequisites 
-You have to be in Developper Mode & Developper Version  
+You have to be in Developper Mode & Developper Version (may work in Beta Version too)  
 Chromebook with Intel Core 
 Save & Close all currents work.  
 
